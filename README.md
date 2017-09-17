@@ -1,4 +1,4 @@
-#** WELCOME to my first Repository **
+# WELCOME to my first Repository.
 ## Things to learn
 * Git-hub Markdown
 ## Things to master
@@ -8,3 +8,6 @@
  * merging
  * cloning
  * understanding whats going on.
+## Things to test.
+* Python commits
+* workflow? 
